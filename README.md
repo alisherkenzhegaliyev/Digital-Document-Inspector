@@ -1,6 +1,6 @@
-# 🚀 InnovateX -- Deployment Guide
+# 🚀 Digital Document Inspector -- Deployment Guide
 
-This repository contains the full source code for the InnovateX system.
+This repository contains the full source code for the Digital Document Inspector.
 If you plan to run it directly from GitHub, ensure you first download
 the required **model files** from the **GitHub Releases** section and
 place them in the expected directories.
