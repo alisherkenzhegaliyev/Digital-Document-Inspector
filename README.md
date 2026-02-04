@@ -12,7 +12,7 @@ natively.
 
 ------------------------------------------------------------------------
 
-## 📦 Run via Docker (Recommended)
+## 📦 Run via Docker
 
 Both the frontend and backend are published as versioned Docker images.
 No local Python, Node, or dependency setup is required.
